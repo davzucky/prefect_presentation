@@ -1,0 +1,10 @@
+notebook
+jupyterlab
+rise
+prefect
+wikipedia
+requests
+pandas
+lxml
+fastparquet
+graphviz
