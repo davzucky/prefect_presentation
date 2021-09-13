@@ -1,5 +1,6 @@
 notebook
 jupyterlab
+jupyter_contrib_nbextensions
 rise
 prefect
 wikipedia
@@ -7,4 +8,5 @@ requests
 pandas
 lxml
 fastparquet
+distributed
 graphviz
